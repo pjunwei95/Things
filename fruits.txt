@@ -1,3 +1,2 @@
 pear
 banana
-new
